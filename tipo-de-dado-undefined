@@ -1,0 +1,3 @@
+//variavel declara mas sem valor inicializado
+let valorindefinido;
+console.log(valorindefinido);//undefined
